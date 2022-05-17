@@ -1,0 +1,98 @@
+{
+	"storyName": "MOMMY MUST MURDER",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "limo",
+	"weekBefore": "week3",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"mom",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"nightland",
+			"clips",
+			[
+				252,
+				150,
+				215
+			]
+		],
+		[
+			"uncanny-valley",
+			"ena",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"extraterrestrial",
+			"xigmund",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"satellite-picnic",
+			"boo",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"sussy-pussy",
+			"tomongus",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"close-chuckle",
+			"charlie",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"deep-poems",
+			"monika",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"majin",
+			"mazin",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"astral-projection",
+			"ena",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 4"
+}

@@ -1,0 +1,98 @@
+{
+	"storyName": "Daddy Dearest",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Broadcasting",
+			"nikku",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Mirror Magic",
+			"nikku",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"FANDOMANIA",
+			"nikku",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Killer Queen",
+			"nikku",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Hyperfunk",
+			"nikku",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Sugarcrush",
+			"nikku",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Smokebomb",
+			"nikku",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Overdrive",
+			"nikku",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"EXPURGATED",
+			"nikku",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 1"
+}

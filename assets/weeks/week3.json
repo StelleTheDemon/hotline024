@@ -1,0 +1,35 @@
+{
+	"storyName": "PICO",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "philly",
+	"weekBefore": "week2",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"pico",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Soda Disco Funk",
+			"momo",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Armageddon",
+			"rude1",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 3"
+}

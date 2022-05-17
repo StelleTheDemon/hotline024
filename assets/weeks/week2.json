@@ -1,0 +1,53 @@
+{
+	"storyName": "Spooky Month",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "halloween",
+	"weekBefore": "week1",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"spooky",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Thunderstorm",
+			"nikku",
+			[
+				34,
+				51,
+				68
+			]
+		],
+		[
+			"CG Megamix",
+			"nikku",
+			[
+				34,
+				51,
+				68
+			]
+		],
+		[
+			"Promenade",
+			"nikku",
+			[
+				34,
+				51,
+				68
+			]
+		],
+		[
+			"Deathmatch",
+			"nikku",
+			[
+				34,
+				51,
+				68
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 2"
+}
