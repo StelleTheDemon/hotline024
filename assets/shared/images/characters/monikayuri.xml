@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="monikauri.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MonDown0000" x="0" y="0" width="412" height="479" frameX="-2" frameY="0" frameWidth="418" frameHeight="479"/>
+	<SubTexture name="MonDown0001" x="412" y="0" width="418" height="479"/>
+	<SubTexture name="MonLeft0000" x="830" y="0" width="422" height="481" frameX="-1" frameY="0" frameWidth="427" frameHeight="481"/>
+	<SubTexture name="MonLeft0001" x="1252" y="0" width="427" height="480" frameX="0" frameY="0" frameWidth="427" frameHeight="481"/>
+	<SubTexture name="MonRight0000" x="1679" y="0" width="406" height="475" frameX="0" frameY="0" frameWidth="409" frameHeight="476"/>
+	<SubTexture name="MonRight0001" x="2085" y="0" width="408" height="476" frameX="-1" frameY="0" frameWidth="409" frameHeight="476"/>
+	<SubTexture name="MonUp0000" x="2493" y="0" width="415" height="496" frameX="0" frameY="0" frameWidth="417" frameHeight="497"/>
+	<SubTexture name="MonUp0001" x="2908" y="0" width="415" height="496" frameX="-2" frameY="-1" frameWidth="417" frameHeight="497"/>
+	<SubTexture name="MonYurIdle0000" x="3323" y="0" width="418" height="477" frameX="0" frameY="-4" frameWidth="422" frameHeight="481"/>
+	<SubTexture name="MonYurIdle0001" x="0" y="496" width="422" height="479" frameX="0" frameY="0" frameWidth="422" frameHeight="481"/>
+	<SubTexture name="MonYurIdle0002" x="422" y="496" width="416" height="475" frameX="0" frameY="-3" frameWidth="422" frameHeight="481"/>
+	<SubTexture name="MonYurIdle0003" x="838" y="496" width="405" height="474" frameX="-6" frameY="-4" frameWidth="422" frameHeight="481"/>
+	<SubTexture name="MonYurIdle0004" x="1243" y="496" width="399" height="477" frameX="-9" frameY="0" frameWidth="422" frameHeight="481"/>
+	<SubTexture name="MonYurIdle0005" x="1642" y="496" width="399" height="479" frameX="-7" frameY="-1" frameWidth="422" frameHeight="481"/>
+	<SubTexture name="MonYurIdle0006" x="2041" y="496" width="392" height="479" frameX="-12" frameY="-1" frameWidth="422" frameHeight="481"/>
+	<SubTexture name="MonYurIdle0007" x="2433" y="496" width="395" height="475" frameX="-12" frameY="-4" frameWidth="422" frameHeight="481"/>
+	<SubTexture name="YurDown0000" x="2828" y="496" width="415" height="476" frameX="0" frameY="-4" frameWidth="415" frameHeight="480"/>
+	<SubTexture name="YurDown0001" x="3243" y="496" width="410" height="478" frameX="0" frameY="0" frameWidth="415" frameHeight="480"/>
+	<SubTexture name="YurLeft0000" x="3653" y="496" width="412" height="477" frameX="0" frameY="-2" frameWidth="414" frameHeight="479"/>
+	<SubTexture name="YurLeft0001" x="0" y="975" width="414" height="478" frameX="0" frameY="0" frameWidth="414" frameHeight="479"/>
+	<SubTexture name="YurRight0000" x="414" y="975" width="422" height="476" frameX="0" frameY="-4" frameWidth="424" frameHeight="480"/>
+	<SubTexture name="YurRight0001" x="836" y="975" width="424" height="478" frameX="0" frameY="0" frameWidth="424" frameHeight="480"/>
+	<SubTexture name="YurUp0000" x="1260" y="975" width="406" height="476" frameX="-1" frameY="-4" frameWidth="407" frameHeight="480"/>
+	<SubTexture name="YurUp0001" x="1666" y="975" width="406" height="478" frameX="0" frameY="0" frameWidth="407" frameHeight="480"/>
+</TextureAtlas>
